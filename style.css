@@ -1,0 +1,19 @@
+h1 {
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bgcolor{
+    background-color: blue;
+}
+
+.bgimagr{
+    background-image: url(pictures/foto/download.png);
+    height: 350px;
+}
+
+.bgposition{
+    height: 350px;
+    background: url(pictures/foto/download.png);
+}
